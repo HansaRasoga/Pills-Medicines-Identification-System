@@ -1,0 +1,1 @@
+Shapes, color, boundary of pills are identified using python, image processing, computer vision. Accuracy of the identification is not in advance level now. Try to increase the accuracy of identification.
